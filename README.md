@@ -1,7 +1,5 @@
 ﻿# Notification-Reader-Android-App
 
-# Java-Reflection
-
 Date: Monday, April 25, 2016
 Author: Sandesh Nimhan, Rishi Malani, Akshay Marewar
 E-mail: snimhan1@binghamton.edu, rmalani1@binghamton.edu, amarewa1@binghamton.edu
